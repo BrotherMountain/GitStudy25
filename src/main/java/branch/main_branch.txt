@@ -1,1 +1,11 @@
 this is main branch
+
+rabse할 것은
+message
+
+merge할 것은
+userinfo
+
+
+다른 컴퓨터에서 작성할 것은
+factory
