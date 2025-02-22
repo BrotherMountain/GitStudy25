@@ -1,3 +1,4 @@
 이곳은 factory 객체가 있는 곳입니다.
 
 factory-1
+factory-2
